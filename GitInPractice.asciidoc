@@ -1,2 +1,3 @@
 #!/usr/bin/env sh
 A bunch of idiots.
+Betta sucks!
